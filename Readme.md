@@ -60,7 +60,8 @@ alt="TypeScript">
 
 ---
 
-![tutorialspoint](https://github.com/jatolentino/TutorialsPoint/assets/61167951/898f45dc-379a-45ca-8ebf-ef3c386d91d7)
+![tutorialspoint](https://github.com/jatolentino/TutorialsPoint/assets/61167951/c9d56b79-2ab2-465b-9e17-79a6ac7cdc97)
+
 
 
 ##  Quick Links
