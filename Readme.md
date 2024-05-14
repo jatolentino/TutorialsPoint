@@ -58,6 +58,9 @@ alt="TypeScript">
 <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
+---
+
+![tutorialspoint](https://github.com/jatolentino/TutorialsPoint/assets/61167951/898f45dc-379a-45ca-8ebf-ef3c386d91d7)
 
 
 ##  Quick Links
